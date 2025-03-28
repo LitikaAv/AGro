@@ -14,4 +14,12 @@
 - **Sistemas Inteligentes de Governança** 🏛️ - Decisões baseadas em cognição coletiva.
 
 ## 🛠️ Como Contribuir?
-1. Clone o repositório:  
+1. Clone o repositório: git clone https://github.com/LitikaAV/AGro.git cd AGro
+2. Leia a documentação e veja as [Issues](https://github.com/LitikaAV/AGro/issues).  
+3. Envie sugestões e contribua com código, pesquisa e melhorias!  
+
+## 📄 Licença
+Este projeto é distribuído sob a licença MIT. Consulte o arquivo `LICENSE` para mais detalhes.
+
+---
+
