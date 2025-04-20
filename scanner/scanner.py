@@ -1,0 +1,1 @@
+	✅ Função scan_contracts()
